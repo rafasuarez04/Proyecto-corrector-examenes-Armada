@@ -1,4 +1,4 @@
-Sistema de Corrección de Exámenes NAVREST
+**Sistema de Corrección de Exámenes NAVREST**
 Este proyecto tiene como objetivo la corrección de las trayectorias de navegación de los estudiantes de la armada mediante un sistema automatizado. El sistema compara las rutas ideales con las trayectorias de los estudiantes, evaluando su desempeño en función de distintos criterios.
 
 Características del Proyecto
